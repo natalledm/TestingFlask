@@ -1,0 +1,16 @@
+{
+    "villagers": [
+        {
+            "name": "Alex",
+            "gifts": ["Complete Breakfast", "Salmon Dinner"]
+        },
+        {
+            "name": "Elliot",
+            "gifts": ["Crab Cakes", "Duck Feather", "Lobster"]
+        },
+        {
+            "name": "Harvey",
+            "gifts": ["Coffee", "Pickles", "Super Meal"]
+        }
+    ]
+}
